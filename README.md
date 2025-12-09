@@ -1,9 +1,9 @@
-# [TÊN CỦA BẠN]
+# LÊ XUÂN VINH
 **Senior Full-stack Developer | Flutter Expert | 8+ Years Domain Experience**
 
 📍 Việt Nam  
-📧 Email: [Điền Email của bạn]  
-📞 Mobile/Zalo: [Điền SĐT của bạn]  
+📧 Email: vinhlx0908@gmail.com  
+📞 Mobile/Zalo: 0866679892  
 🔗 GitHub: [github.com/XuanVinh0908](https://github.com/XuanVinh0908)
 
 ---
@@ -79,8 +79,8 @@ Tôi không chỉ viết code, tôi xây dựng giải pháp giúp doanh nghiệ
 
 Tôi luôn sẵn sàng cho các dự án mới đầy thách thức. Hãy liên hệ với tôi để biến ý tưởng của bạn thành hiện thực.
 
-* **Email:** [Điền Email của bạn]
-* **Phone/Zalo:** [Điền SĐT của bạn]
-* **Địa chỉ:** [Tỉnh/Thành phố của bạn], Việt Nam.
+* **Email:** vinhlx0908@gmail.com
+* **Phone/Zalo:** 0866679892
+* **Địa chỉ:** Hải Phòng, Việt Nam.
 
 > *"Chất lượng code làm nên uy tín - Tư duy nghiệp vụ tạo ra giá trị."*
